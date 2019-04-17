@@ -8,7 +8,7 @@ This is my website that includes my skills, abilities, services, portfolio, and 
 
 ## How It's Made
 
-Tech used: HTML, & CSS
+Tech used: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Sass, PHP, and Node.js
 
 ## Optimizations
 
